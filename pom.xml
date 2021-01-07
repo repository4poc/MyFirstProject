@@ -6,7 +6,7 @@
   <!--Maven Corordinates-->
   <groupId>org.sample</groupId>
   <artifactId>MyFirstProject</artifactId>
-  <version>2.1</version>
+  <version>2.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   
   <properties>
@@ -94,7 +94,7 @@
   <scm>
       <developerConnection>scm:git:https://github.com/repository4poc/MyFirstProject.git</developerConnection>
       <url>https://github.com/repository4poc/MyFirstProject.git</url>
-  <tag>MyFirstProject-2.1</tag>
+  <tag>MyFirstProject-2.0</tag>
   </scm>
  <!--
   <repositories>
