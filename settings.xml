@@ -1,0 +1,36 @@
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd"
+    xmlns="http://maven.apache.org/SETTINGS/1.1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+    <servers>
+        <server>
+            <id>central</id>
+            <username>admin</username>
+            <password>password123</password>
+        </server>
+        <server>
+            <id>myfirstproject-snapshot</id>
+            <username>admin</username>
+            <password>password123</password>
+        </server>
+        <server>
+            <id>myfirstproject-release</id>
+            <username>admin</username>
+            <password>password123</password>
+        </server>
+        <server>
+            <id>github</id>
+            <username>varinder_gupta82@yahoo.com</username>
+            <password>Valentine@2284</password>
+        </server>
+    </servers>
+
+    <mirrors>
+        <mirror>
+            <id>central</id>
+            <url>http://localhost:8081/artifactory/myfirstproject-group/</url>
+            <mirrorOf>*</mirrorOf>
+        </mirror>
+    </mirrors>
+</settings>
