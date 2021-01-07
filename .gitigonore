@@ -1,0 +1,5 @@
+target/
+.settings/
+.vscode/
+pom.xml.releaseBackup
+release.properties
