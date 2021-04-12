@@ -6,7 +6,7 @@
   <!--Maven Corordinates-->
   <groupId>org.sample</groupId>
   <artifactId>MyFirstProject</artifactId>
-  <version>3.3.3</version>
+  <version>3.3.4-SNAPSHOT</version>
   <packaging>jar</packaging>
   
   <properties>
