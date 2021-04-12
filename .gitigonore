@@ -3,3 +3,5 @@ target/
 .vscode/
 pom.xml.releaseBackup
 release.properties
+release.sh
+settings.xml

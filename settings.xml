@@ -29,7 +29,7 @@
     <mirrors>
         <mirror>
             <id>central</id>
-            <url>http://localhost:8081/artifactory/myfirstproject-group/</url>
+            <url>http://localhost:8081/artifactory/myfirstproject-remote/</url>
             <mirrorOf>*</mirrorOf>
         </mirror>
     </mirrors>
